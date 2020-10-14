@@ -7,4 +7,4 @@ Delete and update restaurants details<br/>
 Add data in database <br/>
 Use grouped middleware for custom auth for login <br/>
 Once login and then you can access other pages<br/>
-Only admin can add and update details<br/>
+Only admin can add and update details.<br/>
