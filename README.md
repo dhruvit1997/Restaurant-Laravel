@@ -1,8 +1,8 @@
 # Restaurant-Laravel
 
 
- Add Restaurant name and address
- Show list of restaurants
+ *Add Restaurant name, email and address
+ *Show list of restaurants
  Delete and update restaurants details
  Add data in database 
  Use grouped middleware for custom auth for login 
